@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: 
 url: "https://meigo0929.github.io"
-title: Type on Strap # site's title
+title: Meigo's LAB # site's title
 description: "A website with blog posts and pages" # used by search engines
 
 
@@ -10,7 +10,7 @@ theme_settings:
   # Meta
   title: Meigo's LAB # blog's title
   avatar: assets/img/TitleIcon.jpeg
-  favicon: assets/favicon.ico
+  favicon: 
   gravatar: # Email MD5 hash
 
   # Header and footer text
